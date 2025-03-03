@@ -187,7 +187,7 @@ asc码表一共0——127，128个字符
 
 <img src="https://cdn.jsdelivr.net/gh/Answerjy/Cloud-image-Hosting/img/202503012341535.png" alt="image-20250227164047396" style="zoom:50%;" />	
 
-![image-20250227164118686](C:\Users\Answer\AppData\Roaming\Typora\typora-user-images\image-20250227164118686.png)	
+![image-20250227164118686](https://cdn.jsdelivr.net/gh/Answerjy/Cloud-image-Hosting/img/202503012355277.png)	
 
 ### 成员变量默认初始值
 
